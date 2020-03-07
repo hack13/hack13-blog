@@ -10,7 +10,48 @@
         <main role="main">
         <div class="container">
         <h1 class="mt-5">Projects</h1>
-        <h3>Personal Projects:</h3>
+        <h3>Services:</h3>
+        <div class="container">
+            <div class="row">
+                <table class="table table-hover">
+                    <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">About</th>
+                        <th scope="col">Tags</th>
+                        <th scope="col">Link(s)</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th scope="row">Tier 2 Virginia OpenNIC Resolvers</th>
+                        <td>Two OpenNIC Public Tier 2 resolvers with DoH(DNS over HTTPS) support for anyone to use.</td>
+                        <td><span class="badge badge-info">DNS</span> <span class="badge badge-info">Service</span></td>
+                        <td>
+                            <a href="/projects/opennic" class="btn btn-secondary">Learn More</a> 
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">CyberWrld Grid</th>
+                        <td>Free public grid used for testing and development of software and tools.</td>
+                        <td><span class="badge badge-info">OpenSimulator</span> <span class="badge badge-info">Service</span></td>
+                        <td>
+                            <a href="/projects/cyberwrld" class="btn btn-secondary">Learn More</a> 
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">CyberWrld Grid</th>
+                        <td>Free public OpenSimulator resources licensed under CC0.</td>
+                        <td><span class="badge badge-info">OpenSimulator</span> <span class="badge badge-info">Service</span></td>
+                        <td>
+                            <a href="https://zadaroo.com" target="_blank" class="btn btn-secondary">Visit</a> 
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <h3>Code:</h3>
         <div class="container">
             <div class="row">
                 <table class="table table-hover">
@@ -24,24 +65,6 @@
                     </tr>
                     </thead>
                     <tbody>
-                    <tr>
-                        <th scope="row">Tier 2 Virginia OpenNIC Resolvers</th>
-                        <td>Two OpenNIC Public Tier 2 resolvers with DoH(DNS over HTTPS) support for anyone to use.</td>
-                        <td><span class="badge badge-info">DNS</span> <span class="badge badge-info">Service</span></td>
-                        <td>
-                            <a href="/projects/opennic" class="btn btn-secondary"><i class="fas fa-link"></i></a> 
-                        </td>
-                        <td><h4><span class="badge badge-primary">Maintained</span></h4></td>
-                    </tr>
-                    <tr>
-                        <th scope="row">CyberWrld Grid</th>
-                        <td>Free public grid used for testing and development of software and tools.</td>
-                        <td><span class="badge badge-info">OpenSimulator</span> <span class="badge badge-info">Service</span></td>
-                        <td>
-                            <a href="/projects/cyberwrld" target="_blank" class="btn btn-secondary"><i class="fas fa-link"></i></a> 
-                        </td>
-                        <td><h4><span class="badge badge-danger">Alpha</span></h4></td>
-                    </tr>
                     <tr>
                         <th scope="row">Ansible OpenNIC Setup</th>
                         <td>Simple Ansible Playbook to install and configure an OpenNIC Tier 2 node on multiple distributions of Linux.</td>
@@ -66,6 +89,15 @@
                         <td><span class="badge badge-info">PHP</span> <span class="badge badge-info">SQL</span></td>
                         <td>
                             <a href="https://github.com/hack13/opensim-libre-panel" target="_blank" class="btn btn-secondary"><i class="fab fa-github"></i></a> 
+                        </td>
+                        <td><h4><span class="badge badge-info">Work In Progress</span></h4></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Zadaroo</th>
+                        <td>A static redesign of the Zadaroo site, to provide a more streamlined site.</td>
+                        <td><span class="badge badge-info">HTML</span> <span class="badge badge-info">JavaScript</span></td>
+                        <td>
+                            <a href="https://github.com/hack13/Zadaroo" target="_blank" class="btn btn-secondary"><i class="fab fa-github"></i></a> 
                         </td>
                         <td><h4><span class="badge badge-info">Work In Progress</span></h4></td>
                     </tr>
