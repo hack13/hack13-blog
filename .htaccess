@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^home/?$ index.php
+RewriteRule ^about/?$ about.php
+RewriteRule ^projects/?$ projects.php
+RewriteRule ^guides/?$ guides.php
+RewriteRule ^projects/opennic?$ projects/opennic.php
