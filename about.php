@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <title>HACK13 Site</title>
-        <link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="/assets/bootstrap.min.css"/>
     </head>
     <body>
         <?php include('views/navbar.php'); ?>

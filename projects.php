@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <title>HACK13 Site</title>
-        <link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="/assets/bootstrap.min.css"/>
     </head>
     <body>
         <?php include('views/navbar.php'); ?>
@@ -29,7 +29,7 @@
                         <td>Two OpenNIC Public Tier 2 resolvers with DoH(DNS over HTTPS) support for anyone to use.</td>
                         <td><span class="badge badge-info">DNS</span> <span class="badge badge-info">Service</span></td>
                         <td>
-                            <a href="/projects/opennic" target="_blank" class="btn btn-secondary"><i class="fas fa-link"></i></a> 
+                            <a href="/projects/opennic" class="btn btn-secondary"><i class="fas fa-link"></i></a> 
                         </td>
                         <td><h4><span class="badge badge-primary">Maintained</span></h4></td>
                     </tr>
