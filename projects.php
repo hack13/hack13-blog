@@ -40,7 +40,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <th scope="row">CyberWrld Grid</th>
+                        <th scope="row">Zadaroo</th>
                         <td>Free public OpenSimulator resources licensed under CC0.</td>
                         <td><span class="badge badge-info">OpenSimulator</span> <span class="badge badge-info">Service</span></td>
                         <td>
