@@ -2,6 +2,7 @@
 
 use App\Models\BlogModel;
 use CodeIgniter\Controller;
+use CodeIgniter\Services;
 
 class Blog extends Controller
 {
@@ -11,7 +12,8 @@ class Blog extends Controller
         $model = new BlogModel();
 
         $data = [
-            'blog' => $model->getBlog(),
+            'blog'  => $model->orderBy('id', 'DESC')->paginate(5),
+            'pager' => $model->pager,
             'title' => 'Blog',
         ];
 

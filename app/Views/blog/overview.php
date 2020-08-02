@@ -6,14 +6,16 @@
 
         <?php foreach ($blog as $blog_item): ?>
 
-            <h3><?= esc($blog_item['title']); ?></h3>
+            <h3><?= esc($blog_item['title']); ?></h3> <tt><?= esc($blog_item['published']); ?></tt>
 
             <div class="main">
-                <?= esc($blog_item['body']); ?>
+                <?php echo(substr($blog_item['body'], 0, 250)).'...'; ?>
             </div>
             <p><a href="/blog/<?= esc($blog_item['slug'], 'url'); ?>">View article</a></p>
 
         <?php endforeach; ?>
+
+        <?= $pager->simpleLinks() ?>
 
     <?php else : ?>
 

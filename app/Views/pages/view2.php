@@ -1,0 +1,1 @@
+<?= esc($page['body'], 'raw'); ?>
