@@ -3,4 +3,5 @@ RewriteRule ^home/?$ index.php
 RewriteRule ^about/?$ about.php
 RewriteRule ^projects/?$ projects.php
 RewriteRule ^guides/?$ guides.php
+RewriteRule ^privacy/?$ privacy.php
 RewriteRule ^projects/opennic?$ projects/opennic.php

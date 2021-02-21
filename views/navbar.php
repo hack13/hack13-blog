@@ -21,6 +21,9 @@
       <li class="nav-item">
         <a class="nav-link" href="/about">About Me</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/privacy">Privacy</p>
+      </li>
     </ul>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
