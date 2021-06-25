@@ -1,4 +1,4 @@
 <head>
-    <title>{{ block "title" . }}{{ if .IsHome }} {{ .Site.Title }} {{ else }} {{ .Title }} - {{ .Site.Title }} {{ end }}{{ end }}</title>
-    <link rel="stylesheet" type="text/css" href="/assets/bootstrap.min.css"/>
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/bootstrap.min.css"/>
 </head>

@@ -1,4 +1,3 @@
-baseURL = "http://hack13-site.pages.dev"
+baseURL = "https://hack13.me/"
 languageCode = "en-us"
 title = "Hack13 Site"
-theme = "hacksite"
