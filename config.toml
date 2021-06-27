@@ -1,3 +1,13 @@
 baseURL = "https://hack13.me/"
 languageCode = "en-us"
 title = "Hack13 Site"
+theme = "hacksite"
+sectionPagesMenu = "main"
+
+[menu]
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "home"
+    weight = "10"
+    url = "/"

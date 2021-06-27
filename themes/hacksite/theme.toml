@@ -11,8 +11,8 @@ features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Hack13 (Timothy Rogers)"
+  homepage = "https://hack13.me/"
 
 # If porting an existing theme
 [original]

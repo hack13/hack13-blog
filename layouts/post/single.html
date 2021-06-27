@@ -7,9 +7,12 @@
         <main role="main">
             <div class="container">
             {{- block "main" . }}{{- end }}
+            <h1>{{ .Params.title }}</h1>
+            <strong>Author:</strong> {{ .Params.author }} | <strong>Published:</strong> {{ .Date.Format "Jan 2, 2006" }} <hr/>
             {{ .Content }}
             </div>
         </main>
         {{- partial "footer.html" . -}}
     </body>
 </html>
+
