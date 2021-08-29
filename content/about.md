@@ -2,7 +2,7 @@
 title: "About Me"
 menu: 
   main:
-    weight: 20
+    weight: 40
 ---
 # About Me
 ### Short Bio
