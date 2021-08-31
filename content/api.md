@@ -1,10 +1,10 @@
 ---
-title: "Projects"
+title: "API"
 menu: 
   main:
-    weight: 30
+    weight: 25
 ---
-# API Reference
+# API Docs
 
 {{< rawhtml >}}
 <div class="container">
