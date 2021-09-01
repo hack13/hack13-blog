@@ -35,6 +35,7 @@ menu:
                 <li>Song <span class="badge badge-info">String/URL</span></li>
                 <li>Song Name <span class="badge badge-info">Bool</span></li>
             </ul>
+            <strong>API Source Code:</strong> <a href="https://gist.github.com/hack13/1e6c9340815814e9286b5d2ee566bb50" target="_blank">GitHub Gist</a>
         </div>
         </div>
     </div>
