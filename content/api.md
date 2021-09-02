@@ -23,17 +23,16 @@ menu:
             <br />
             <strong>Example Response:</strong>
             <pre><code>
-            PUNCHING BAG,blackwinterwells,https://www.last.fm/music/blackwinterwells/_/PUNCHING+BAG,https://lastfm.freetls.fastly.net/i/u/300x300/da1eaf8adf9ad97a7b86fb76e6e1a876.jpg,true
+            PUNCHING BAG,blackwinterwells,https://www.last.fm/music/blackwinterwells/_/PUNCHING+BAG,true
             </code></pre>
             <strong>Response Breakdown:</strong>
             <pre><code>
-            <i>Song Name</i>,<i>Artist Name</i>,<i>LastFM Song Page Link</i>,<i>Album Art Link</i>,<i>Now Playing</i>
+            <i>Song Name</i>,<i>Artist Name</i>,<i>LastFM Song Page Link</i>,<i>Now Playing</i>
             </code></pre>
             <ul>
                 <li>Song Name <span class="badge badge-info">String</span></li>
                 <li>Artist Name <span class="badge badge-info">String</span></li>
                 <li>Song LastFM Page Link <span class="badge badge-info">String/URL</span></li>
-                <li>Album Art Link <span class="badge badge-info">String/URL</span></li>
                 <li>Now Playing <span class="badge badge-info">Bool</span></li>
             </ul>
             <strong>API Source Code:</strong> <a href="https://gist.github.com/hack13/1e6c9340815814e9286b5d2ee566bb50" target="_blank">GitHub Gist</a>
