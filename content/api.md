@@ -23,11 +23,11 @@ menu:
             <br />
             <strong>Example Response:</strong>
             <pre><code>
-            PUNCHING BAG,blackwinterwells,https://www.last.fm/music/blackwinterwells/_/PUNCHING+BAG,true
+            "PUNCHING BAG","blackwinterwells","https://www.last.fm/music/blackwinterwells/_/PUNCHING+BAG",true
             </code></pre>
             <strong>Response Breakdown:</strong>
             <pre><code>
-            <i>Song Name</i>,<i>Artist Name</i>,<i>LastFM Song Page Link</i>,<i>Now Playing</i>
+            <i>"Song Name"</i>,<i>"Artist Name"</i>,<i>"LastFM Song Page Link"</i>,<i>Now Playing</i>
             </code></pre>
             <ul>
                 <li>Song Name <span class="badge badge-info">String</span></li>
