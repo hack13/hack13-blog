@@ -25,7 +25,7 @@ That said, their latest service they have released public called [Pages](https:/
 
 So the big reason why I have migrated to Cloudflare Pages for my site, is because it is so much easier to work on my site, test changes before they go public. I am able to push my changes to my GitHub repo for my site, and it kicks off a job immediately to update the site. It also builds the other branches on the fly as well, but gives them a unique link that isn't mapped to the regular live link so you can see the development builds of your site beside your live site.
 
-![Screen Shot 2021-10-29 at 8.24.55 AM.png](/post-pics/Screen_Shot_2021-10-29_at_8.24.55_AM.png)
+![Screen Shot 2021-10-29 at 8.24.55 AM.png](/post-pics/2021/Screen_Shot_2021-10-29_at_8.24.55_AM.png)
 
 As you can see from the image above you can see how it pulls, builds, and generates a unique site link for each commit. So as you can see, it on the back-end remaps your domain to the deployment link of the latest build. All the previous build hang around as well, so if I mess up on a build I can click the dots next to the build I need to go back to and the site will immediately roll back to that version of the site.
 
@@ -35,7 +35,7 @@ So I know you might be asking why I don't just use GitHub's built in Pages servi
 
 So as I stated earlier, I also have been hosting an API server for people to use that uses my key to check against the [LastFM API](https://last.fm/) to get their Now Playing data and able to use it inside of NeosVR. I have to parse it into something not JSON or XML so that it is more easy to parse the data in game. So I was using a PHP script, but looking at the Cloudflare Workers... I am able to allow 100,000 requests every 24 hours. I haven't gotten over 45% usage yet. But even when I do the pricing is very affordable and there is no cold starts. All I had to do was teach myself JavaScript... which only took a day.
 
-![Screen Shot 2021-10-29 at 9.19.44 AM.png](/post-pics/Screen_Shot_2021-10-29_at_9.19.44_AM.png)
+![Screen Shot 2021-10-29 at 9.19.44 AM.png](/post-pics/2021/Screen_Shot_2021-10-29_at_9.19.44_AM.png)
 
 The image above shows the weekly report of my workers usage data. You also see, I have setup a lastfm-legacy that maps overtop of the old link for the lastfm system some people are still pointing at but has been re-written on the back-end to JavaScript on a Worker so that it gives them time to update to the new one.
 
