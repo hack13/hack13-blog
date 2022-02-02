@@ -69,7 +69,7 @@ menu:
                         <td>
                             <a href="https://github.com/hack13/ansible-opensim-grid" target="_blank" class="btn btn-secondary"><i class="fab fa-github"></i></a> 
                         </td>
-                        <td><h4><span class="badge badge-warning">Un-Maintained</span></h4></td>
+                        <td><h4><span class="badge badge-warning">Discontinued</span></h4></td>
                     </tr>
                     <tr>
                         <th scope="row">OpenSim Libre Panel</th>
@@ -87,7 +87,7 @@ menu:
                         <td>
                             <a href="https://github.com/hack13/Zadaroo" target="_blank" class="btn btn-secondary"><i class="fab fa-github"></i></a> 
                         </td>
-                        <td><h4><span class="badge badge-info">Work In Progress</span></h4></td>
+                        <td><h4><span class="badge badge-info">Completed</span></h4></td>
                     </tr>
                     </tbody>
                 </table>

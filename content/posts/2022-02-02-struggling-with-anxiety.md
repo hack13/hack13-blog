@@ -9,10 +9,6 @@ categories:
 
 ---
 
-# Struggling With Anxiety
-
-Tags: Personal
-
 So I am sorry I haven’t been good lately, I am not ok and I know a lot of people are not ok lately. I know that a lot of people in my personal and professional life look up to me. This just adds stress to me that I am just hitting life as a whole burn out. This is just me opening up, and expressing how I have been spiraling out of control… 
 
 ### Professional Life
