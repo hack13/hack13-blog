@@ -9,14 +9,25 @@
             {{- block "main" . }}{{- end }}
             <h1>{{.Title}}</h1>
             {{.Content}}
-            <ul>
                 <!-- Ranges through content/posts/*.md -->
-                {{ range .Pages }}
-                    <li>
-                        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-                    </li>
+                {{ range (.Paginator 10).Pages }}
+                    <article>
+                    <!-- this <div> includes the title summary -->
+                    <div>
+                        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                        <tt>{{ .Date.Format "Jan 2, 2006" }}</tt><br/>
+                        {{ .Summary }}
+                    </div>
+                    {{ if .Truncated }}
+                    <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+                    <div>
+                        <a href="{{ .RelPermalink }}">Read More…</a>
+                    </div>
+                    {{ end }}
+                    </article>
                 {{ end }}
-            </ul>
+                <br />
+                    {{ template "_internal/pagination.html" . }}
             </div>
         </main>
         {{- partial "footer.html" . -}}
