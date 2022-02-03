@@ -10,6 +10,8 @@
             <h1>{{ .Params.title }}</h1>
             <strong>Author:</strong> {{ .Params.author }} | <strong>Published:</strong> {{ .Date.Format "Jan 2, 2006" }} <hr/>
             {{ .Content }}
+            <button class="btn btn-secondary" onclick="window.history.go(-1)">&#8701; Go Back</button>
+            <br/>
             </div>
         </main>
         {{- partial "footer.html" . -}}
