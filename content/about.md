@@ -6,9 +6,13 @@ menu:
 ---
 # About Me
 ### Short Bio
-Hi there, I am by day a UNIX\Linux System Administrator and the rest of the time I am just a big old Linux nerd. I have been running Linux as my daily driver pretty much since I was nine years old. I found it after getting my first computer, and it was so slow and wanted to find something that would run faster. I found something called ZenWalk Linux back then (sadly not around anymore), which was based on Slackware Linux which is still around. Shortly after that, I started to dive more into Linux over the years. I have used many different distributions over the years as a daily driver. Ubuntu, Arch, Debian, Mandriva, OpenSUSE, and Solus just to name a few.
+Why hello there, I am Hack13... Just some fox you met on the internet, or stumbled upon. I have am a Linux and UNIX SysAdmin by day and hobbyist developer by night.
+I also love playing in VR, my current favorite platform is NeosVR followed by VRChat from time to time. I enjoy the more nerdy community and flexibility NeosVR gives
+to me as a person who loves to tinker and make things. However, I know that VRChat is slowly becoming a bit better with allowing things like NeosVR but I don't ever 
+think the platforms will be the same.
 
-These days I tend to use Fedora as my daily driver, I like being able to run more up to date software that isn’t really modified for the distribution. Fedora feels very stock and since I manage mostly RHEL(Red Hat Enterprise Linux) for my day job, it is nice to use the upstream version of the system to just stay in the same ecosystem. That said, I have nothing against any other distribution.
+Where do I go from here? I am not fully sure, I am still figuring myself out. I have recently come out as Non-Binary, and I am still discovering myself, and exploring
+the more feminine side of myself. We shall see what happens and where it goes, and don't be affraind to say hello!
 
 ### Contact Info
 
