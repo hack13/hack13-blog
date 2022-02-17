@@ -10,7 +10,7 @@ categories:
 
 ---
 
-So it is crazy to me how polarized people seem to be over NFT’s these days, and crypto in general... As someone has been dibbling and following crypto stuff since the early days, it has been sad seeing how it has been loaded up with tons of scams, and how so many people are opting in to it for the fad. So I just wanted to write up a little thing about my thoughts on all this mess...
+So it is crazy to me how polarized people seem to be over NFT’s these days, and crypto in general... As someone has been dabbling and following crypto stuff since the early days, it has been sad seeing how it has been loaded up with tons of scams, and how so many people are opting in to it for the fad. So I just wanted to write up a little thing about my thoughts on all this mess...
 
 ### Utility NFT’s
 
