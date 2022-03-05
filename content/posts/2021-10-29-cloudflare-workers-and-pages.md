@@ -9,9 +9,6 @@ categories:
   - Resources
 
 ---
-# Cloudflare Workers & Pages
-
-Tags: Personal
 
 It sure has been a while since I have posted anything here on my blog... that said you might have realized that the site has changed and maybe even noticed it might be a tad bit faster for you. Well that is because I have started to pick back up coding, because I really do wanna get back into DevOps. That said, I am back to my old shinigans of trying to build things and host them as cheap as possible while not compromising on performance.
 
