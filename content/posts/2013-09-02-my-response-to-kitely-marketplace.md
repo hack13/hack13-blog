@@ -18,7 +18,7 @@ So first off let me start off by saying, I might come off a little bias when it 
 
 Why you should – As a content creator seeking to make profit or just get your item sold across the massive metaverse, this is one of your big chances to do so as it has a lot of attention and has the biggest potential to provide you with the ability to sell to virtually any grid.
 
-Why you shouldn't – If you are a merchant who cares about the security of your items then this may not be the best solution, but still a decient solution. If you allow your creations to be set as exportable, that means once you are in a new grid, or move it to any grid you or someone else you don't know has access to, that item can now be downloaded, exported again, loaded up and changed owner and permission then given back out 1,000,000 of times. Something that should be explained in BOLD detail to anyone who enables such option.
+Why you shouldn't – If you are a merchant who cares about the security of your items then this may not be the best solution, but still a decent solution. If you allow your creations to be set as exportable, that means once you are in a new grid, or move it to any grid you or someone else you don't know has access to, that item can now be downloaded, exported again, loaded up and changed owner and permission then given back out 1,000,000 of times. Something that should be explained in BOLD detail to anyone who enables such option.
 
 **Doesn't this kill stores and malls from getting rented out in other grids?**
 

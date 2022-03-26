@@ -14,6 +14,6 @@ Focus on business, and put helping others second. Why because I keep helping oth
 
 Quit with procrastination. I get off track so much, mostly due to my ADHD, but I have to tighten down and make sure I stay focused and get my work done. Time is money, and money is not everything, but it pays the bills, and helps secure my future.
 
-Work on my relationship. I live in a very interesting relationship, I have two partners. We all live together, and we are all happy together. I know it sounds different, but we are happy and completely settled together. Working on year 3 of being together, and I just want to work on actually being their, because too often I was all busy, no play. So I am going to work on that a bit more this year.
+Work on my relationship. I live in a very interesting relationship, I have two partners. We all live together, and we are all happy together. I know it sounds different, but we are happy and completely settled together. Working on year 3 of being together, and I just want to work on actually being there, because too often I was all busy, no play. So I am going to work on that a bit more this year.
 
 On the whole thing of focusing more on work, well I have already started some major work on the stuff I do for a living. Get ready for a big surprise, because I can't believe I am going to be doing this myself.

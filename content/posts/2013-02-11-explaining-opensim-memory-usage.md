@@ -22,7 +22,7 @@ After loading the oar we are now at 166.2mb of ram so that is still pretty good.
 
 ![alt text](/wp-import/2013/2013-02-11-05_12_59-Singularity-Viewer-Timothy-Hoxley.png "timothy vyper")
 
-So I logged in and dressed up in the most prim clothing I have which is some rave gear I made a long time ago. You can see below, and I walked around a bit and open closed a few doors and stuff and we are still only topping out at about 169.0mb. So I figured that means like what 1-3mb per avatar on the region depending on scripts and prims, so not bad. But I am not done, we are going to load Linda Kellie's freebie mall #2 that has 23,620 prims which is about what I see most people top out at building wise. So lets go see what happens.
+So I logged in and dressed up in the most prim clothing I have which is some rave gear I made a long time ago. You can see below, and I walked around a bit and open closed a few doors and stuff and we are still only topping out at about 169.0mb. So I figured that means like what 1-3mb per avatar on the region depending on scripts and prims, so not bad. But I am not done, we are going to load Linda Kellie's freebie mall #2 that has 23,620 prims which is about what I see most people top out at building wise. So let's go see what happens.
 
 ![alt text](/wp-import/2013/2013-02-11-13_45_23-Task-Manager.png "task manager")
 
@@ -32,7 +32,7 @@ Well after loading the oar and letting probably a thousand scripts load into the
 
 Wow same region, just with scripts turned off. Wow major difference huh, well see how much scripts impact sims, however you have to keep in mind that Freebie Mall #2 has about 6 scripts in almost all the furniture where there is tons of that, and several scripts in doors and other things. Way more than even a standard fully built up region, this is a store sim, tons of stuff. But we can see a region after all that 23,620 prims don't use much at all.
 
-Now I am not sure how many people know that you can hook more than one region per simulator instance, to add another region you just type create region Regions.ini and answer the questions like you did for the first region. So lets put up another region on this same instance while scripts are still disabled and load Linda Kellie's Country Cabin OAR.
+Now I am not sure how many people know that you can hook more than one region per simulator instance, to add another region you just type create region Regions.ini and answer the questions like you did for the first region. So let's put up another region on this same instance while scripts are still disabled and load Linda Kellie's Country Cabin OAR.
 
 ![alt text](/wp-import/2013/2013-02-11-14_10_18-Task-Manager.png "task manager")
 

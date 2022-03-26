@@ -8,7 +8,7 @@ categories:
   - Archived
 
 ---
-I have to admit lately, I have been quite depressed about a lot of things in RL. I have not let effect my work, but it has made it harder to stay focused on work. I am kinda glad Cyber Wrld has not yet worked its way back into any grid list anywhere, as well it hasn't been doing too well at all. Well hasn't been doing anything at all, I have added several features and got a ton of work done to it, and it is ready for production use, minus currency and a few other small things.</p> 
+I have to admit lately, I have been quite depressed about a lot of things in RL. I have not let effect my work, but it has made it harder to stay focused on work. I am kinda glad Cyber Wrld has not yet worked its way back into any grid list anywhere, as well it hasn't been doing too well at all. Well hasn't been doing anything at all, I have added several features and got a ton of work done to it, and it is ready for production use, minus currency and a few other small things. 
 
 I am just unsure if I can run Cyber Wrld, it is has been creating a lot of stress for me managing everything. So instead I am most likely looking to merge, break away from opensim all together, or join the team of another grid that has the same vision in mind. So with my mind not made up, I am going to voice all my views, ideals, and what I have planned for Cyber Wrld.
 
