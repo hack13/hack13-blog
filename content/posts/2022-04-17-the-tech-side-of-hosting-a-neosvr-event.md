@@ -21,7 +21,7 @@ So if you have ever followed me or looked at my work, I am all about bang for th
 </center>
 {{</ rawhtml >}}
 
-We used the CPX51 and CPX51 instances for the event. I used the CPX41 instance for the Main Stage of the event which also doubled as the Parent session for the other sessions. The actual break out sessions where we wanted to make sure that people who were building and working on avatars and logix were on the CPX51’s which was probably overkill... 
+We used the CPX41 and CPX51 instances for the event. I used the CPX41 instance for the Main Stage of the event which also doubled as the Parent session for the other sessions. The actual break out sessions where we wanted to make sure that people who were building and working on avatars and logix were on the CPX51’s which was probably overkill... 
 
 ### NeosVR Headless Configurations
 
