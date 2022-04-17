@@ -16,8 +16,8 @@ So in case you had no idea, I assisted with hosting the back-end of a NeosVR eve
 So if you have ever followed me or looked at my work, I am all about bang for the buck. I decided to use the [Hetzner Cloud](https://www.hetzner.com/cloud) for this event with their new Data Center location based in the USA. This is because most of the attendees were based in North America. Also we were able to take advantage of their instance pricing.
 {{< rawhtml >}}
 <center>
-<img src="/post-pics/2022/LGQ2GFbz7D6rntVRTYVqwhwX.png" />
-<img src="/post-pics/2022/1MhfuY5BLaDOVHuso0Pw17kZ.png" />
+<img src="/post-pics/2022/LGQ2GFbz7D6rntVRTYVqwhwX.webp" />
+<img src="/post-pics/2022/1MhfuY5BLaDOVHuso0Pw17kZ.webp" />
 </center>
 {{</ rawhtml >}}
 
@@ -27,7 +27,7 @@ We used the CPX51 and CPX51 instances for the event. I used the CPX41 instance f
 
 So the documentation for headless client configurations sadly is not quite there, especially when it comes to running events with nested sessions. In fact at the time of writing this, the wiki page for nested sessions doesn’t exist and is a dead link... However, that aside by searching through the NeosVR Discord server and various bug report filings on the GitHub I was able to put together  how to configure the nested sessions configuration. Which is basically parentSessionId is a JSON array... 
 {{< rawhtml >}}<center>{{</ rawhtml >}}
-![event-layout.png](/post-pics/2022/event-layout.png)
+![event-layout.png](/post-pics/2022/event-layout.webp)
 {{< rawhtml >}}</center>{{</ rawhtml >}}
 
 So as you can see from the above diagram, we used a total of 3 cloud instances. I figured since the Main Stage was simply to be a filter point and simple gathering zone, it could be on a slightly less powerful instance. Then the people with Unity and NeosVR knowledge most likely would be doing some crazy Logix or other funny things, we thought it would be best to have them isolated out on their own system. We then put the Intermediate and New Users onto the same back-end system just because we felt those two worlds shouldn’t be too heavy, as they were going to mainly be doing basic setting up your avatar and showing off the basics of NeosVR.
