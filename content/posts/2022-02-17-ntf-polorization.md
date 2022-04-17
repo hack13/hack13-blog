@@ -28,8 +28,8 @@ I know not everyone likes the concept or ideal of doing it this way when we have
 
 I recently purchased 2 NFT’s to help fund a content creator I follow on YouTube and they have been very transparent throughout the whole process. I got two Vaxxed Doggos, and they have been putting out spreadsheet and updating with with how they been using their funds they have received on their content. 
 {{< rawhtml >}}<center>
-<img src="/post-pics/2022/136.png" width="350" height="350"/>
-<img src="/post-pics/2022/470.png" width="350" height="350"/>
+<img src="/post-pics/2022/136.webp" width="350" height="350"/>
+<img src="/post-pics/2022/470.webp" width="350" height="350"/>
 <br />
 <i>Vaxxed Doggo 136 &amp; Vaxxed Doggo 470, currently owned by me</i>
 <br /> <br />
