@@ -2,6 +2,7 @@
     <title>{{ .Site.Title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/fontawesome/css/all.css"/>
+    <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}/favicon.ico"/>
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
