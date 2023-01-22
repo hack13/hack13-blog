@@ -7,7 +7,11 @@ jobs:
     - name: Get latest code
       uses: actions/checkout@v2
     - name: Build hugo site
-      uses: lowply/build-hugo@v0.110.0
+      uses: jakejarvis/hugo-build-action@master
+      with:
+        args: --minify
+    - name: Clean permissions
+      uses: main-quest/actions.clean-permissions@v1.0.4
     - name: Upload files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
