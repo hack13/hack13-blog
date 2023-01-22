@@ -1,6 +1,6 @@
 baseURL = "https://hack13.me"
 languageCode = "en-us"
-title = "Hack13 Site"
+title = "Hack13 Blog"
 theme = "hacksite"
 sectionPagesMenu = "main"
 
@@ -13,7 +13,7 @@ sectionPagesMenu = "main"
     url = "/"
 [[menu.main]]
     identifier = "posts"
-    name = "Blog"
+    name = "Posts"
     title = "posts"
     weight = "15"
     url = "/posts/"
