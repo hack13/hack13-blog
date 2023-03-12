@@ -13,9 +13,11 @@ jobs:
     - name: Clean permissions
       uses: main-quest/actions.clean-permissions@v1.0.4
     - name: Upload files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.3
+      uses: wlixcc/SFTP-Deploy-Action@v1.2.4
       with:
-        server: ${{ secrets.ftp_server }}
-        username: ${{ secrets.ftp_username }}
-        password: ${{ secrets.ftp_password }}
-        local-dir: ./public/
+        username: ${{ secrets.SFTP_USERNAME }}
+        server: ${{ secrets.SFTP_SERVER }}
+        ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
+        local_path: './public/*'
+        remote_path: ${{ secrets.SFTP_REMOTE_PATH }}
+        sftpArgs: '-o ConnectTimeout=5'
