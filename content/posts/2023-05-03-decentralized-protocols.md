@@ -1,5 +1,5 @@
 ---
-title: Ownsership of Data
+title: Decentralized Protocols
 author: Timothy Rogers
 type: post
 date: 2023-05-03
