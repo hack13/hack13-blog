@@ -22,5 +22,5 @@ jobs:
           aws_secret_access_key: ${{ secrets.STORJ_SECRET_ACCESS_KEY }}
           endpoint: ${{ secrets.STORJ_ENDPOINT }}
           aws_bucket: ${{ secrets.STORJ_BUCKET }}
-          source_dir: "dist"
+          source_dir: "public"
           destination_dir: "hack13-blog"
