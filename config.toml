@@ -1,4 +1,4 @@
-baseURL = "https://hack13.blog"
+baseURL = "https://www.hack13.blog"
 languageCode = "en-us"
 title = "Hack13 Blog"
 theme = "hacksite"
