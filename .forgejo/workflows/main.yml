@@ -14,7 +14,7 @@ jobs:
         with:
           args: --minify
       - name: Clean permissions
-        uses: main-quest/actions.clean-permissions@v1.0.4
+        uses: https://github.com/main-quest/actions.clean-permissions@v1.0.4
       - name: Deploy to Uplink
         uses: https://github.com/shallwefootball/upload-s3-action@master
         with:
