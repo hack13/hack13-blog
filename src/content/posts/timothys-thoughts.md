@@ -3,7 +3,6 @@ title: Timothy’s Thoughts
 description: I have to admit lately, I have been quite depressed about a lot of things in RL. I have not let effect my work...
 tags: [OpenSim, AuroraSim]
 published: 2012-06-11
-url: /2012/06/timothys-thoughts/
 category: Archive
 draft: false
 

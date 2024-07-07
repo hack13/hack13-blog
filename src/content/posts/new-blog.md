@@ -4,7 +4,6 @@ description: This is the very first post ever on this blog
 type: post
 published: 2010-06-01
 draft: false
-#url: /2010/06/new-blog/
 tags: [OpenSim]
 category: Archive
 

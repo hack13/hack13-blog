@@ -4,7 +4,6 @@ description: I have been thinking for a long time, and you know I think I have m
 author: Timothy Rogers
 tags: [Personal, OpenSim]
 published: 2012-04-05
-url: /2012/04/my-vision-of-the-hypergrid/
 category: Archive
 draft: false
 

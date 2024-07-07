@@ -4,7 +4,6 @@ description: It is starting to sadden me, I have slowly become aware of things, 
 author: Timothy Rogers
 tags: [OpenSim, Opinion]
 published: 2012-04-11
-url: /2012/04/we-have-hypergrid-use-it/
 category: Archive
 draft: false
 

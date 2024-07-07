@@ -3,7 +3,6 @@ title: Been A While
 description: It has been quite a while since I have posted some updates to this old blog of mine...
 type: post
 published: 2012-04-04
-url: /2012/04/been-a-while/
 tags: [Personal]
 category: Archive
 draft: false

@@ -3,7 +3,6 @@ title: My Take on OpenSim Grids
 description: I am tired of all the fighting over virtual worlds, I mean mainly the OpenSim grids...
 draft: false
 published: 2012-04-05
-url: /2012/04/my-take-on-opensim-grids/
 category: Archive
 tags: [OpenSim, Opinion]
 

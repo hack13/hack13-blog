@@ -3,7 +3,6 @@ title: Coming Changes
 description: Old post about spending time in OSGrid
 tags: [OpenSim]
 published: 2012-05-05
-url: /2012/05/coming-changes/
 category: Archive
 draft: false
 

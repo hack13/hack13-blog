@@ -3,7 +3,6 @@ title: Lil About Me & Some Rage
 author: First off you might be asking why the hell am I putting a Nicki Minaj music video on my blog? Well although I am hypocritical...
 tags: [Vent, Opinion]
 published: 2012-07-14
-url: /2012/07/lil-about-me-some-rage/
 category: Archive
 draft: false
 

@@ -3,7 +3,6 @@ title: Finding My Place
 description: SoftPaw Estates is starting to really kick off and do quite well for itself. Clients are already telling me that they love the service...
 tags: [OpenSim]
 published: 2012-07-02
-url: /2012/07/finding-my-place/
 category: Archive
 draft: false
 
