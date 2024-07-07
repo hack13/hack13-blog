@@ -1,6 +1,6 @@
 ---
 title: Leaving Apple’s Ecosystem (Mobile)
-author: Timothy Rogers
+description: So, I have been a Linux user for years before moving to Apple’s Ecosystem slowly. I started with the iPhone but used to bounce back and forth with no absolute loyalty between Android and iPhone.
 tags: [Opinion, Mobile, iOS, Android]
 published: 2024-02-15
 url: /2024/02/mff-2023-fedi-panel/
