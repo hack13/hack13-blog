@@ -2,7 +2,7 @@
 title: HUGO to WordPress to Astro
 description: So I moved from HUGO to WordPress so I could handle just writing posts again, and have an easier way to handling it. That said, WordPress is great, but with the new stuff Automattic is doing kinda starting to rub me the wrong way and...
 tags: [Opinion, Mobile, iOS, Android]
-published: 2024-02-15
+published: 2024-05-07
 category: Thoughts
 draft: false
 ---
