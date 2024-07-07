@@ -33,6 +33,9 @@ export default defineConfig({
   site: 'https://hack13.blog/',
   base: '/',
   trailingSlash: 'always',
+  redirects: {
+    '/feed': '/rss.xml',
+  },
   integrations: [
     tailwind(),
     swup({
