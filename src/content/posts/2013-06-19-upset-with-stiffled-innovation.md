@@ -1,0 +1,23 @@
+---
+title: Upset With Stiffled Innovation
+description: I am constantly hearing about all these people stiffing innovation, well today I had the last straw I could take. Before I begin, I want to make sure say this boldly and clearly.
+tags: [OpenSim]
+published: 2013-06-19
+url: /2013/06/upset-with-stiffled-innovation/
+category: Archive
+draft: false
+
+---
+I am constantly hearing about all these people stiffing innovation, well today I had the last straw I could take. Before I begin, I want to make sure say this boldly and clearly. **I do not directly represent Zetamex's personal interests, Zetamex represents it's own identity at http://blog.zetamex.com/ and anything said on this blog is unrelated to Zetamex's personal interests.** Now that I got that out of the way, I want to tell you how I was rudely addressed for the last time.
+
+As some of you may know, I have been promoting Zetamex's latest project that has been being worked on for months now. It is finally done, and released, Metajabber. This is a social network/forum hybrid. This software it runs on pulls your twitter, lets you fallow and do statuses and have your own user galleries to share photos and more with other fellow OpenSim goers. Now I know that forums for some people are a dying nature, however for others they are still a great place for support, community, and hanging out. I mean I personally prefer forums over social networks, they get confusing. Forums I can go right down to the post, but I wanted the features you get out of social networks and merge them together. That is what Metajabber is, anyways I am getting off topic here.
+
+I was informed by an administrator of a large group on Google+ that I did not directly ask her permission to promote on her group. That being said, they deleted my post, and said though I didn't directly violate it, they regret to tell me they deleted my post because it is competition to their group. I feel like this goes back to exactly what we keep fighting all the time, and it bothers me when people stifle innovation. If something is going to tank, and it is not spamming, why not let it be.
+
+I feel a good example here is Zetamex, which has just released an amazing product that the big companies been keeping from all of your! Heck I couldn't even get anyone to directly work with me on creating a panel unless I paid them upfront, and well lets face it, I am not rich. I run Zetamex at a profitable company, with FAIR pricing, which means I make just enough to live and buy a few tiny small things like a nice 80usd prepaid phone, because the monthly bill is cheaper pre-paid. Now, that being said where I am getting off topic again. Zetamex is NOT keeping out panel CLOSED SOURCE, not saying it is PROPRIETARY! We are releasing it 100% OPEN SOURCE 100% FREE and yes it will be on GitHub where anyone is 100% FREE to fork it and will be released as promised under PUBLIC DOMAIN, for anyone to use and play with or use to COMPETE with us. Why? WE PROMOTE COMPETITION!!
+
+My father always told me growing up, there is nothing wrong with competition. That we can learn from competition, if it grows or if it fails, we learn and grow and adapt. Yes people make take and abuse what we have created to use it for their own personal uses and go close the source of their derivative and sell it for tons of money. But you know what? Karma is real, and I am not saying it is bad to go and build a business off of our free public domain stuff. I want people to grow, add, create, and make more of this. I mean look at SecondLife, a lot of people go EWW that big evil giant. Well before the new CEO, they gave us OpenSim working with IBM. Why? Because we make something, free and for the community, see tons of us like it in our community, take it back change it a bit, BOOM! Free ideas to learn and grow from, and we do the same from them too.
+
+LightShare is a great example of all of this, it was made by Meta7 then the phoenix team made parcel windlight with little viewer code, then SecondLife finally saw we all loved being able to set these user experiences so they made "Region Windlight Settings" which is their new default in all their viewers instead of time based worlds. I feel sharing code is what makes the world go round, makes things keep ticking, create new ideas, and innovation can only occur by people sharing.
+
+To conclude, yes Zetamex has our own version of our control panel. But the only differences are, that is custom wrapped for our servers, but we are still giving you the same thing we have, just completely free to do what you want with. It doesn't have a few features we have, that is only because we can't setup your server for you, so we have to make it to where you can just use it with any OS and more.
