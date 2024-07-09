@@ -4,7 +4,7 @@ description: First, after reading a post from CyberKitsune on the Fediverse abou
 tags: [Personal]
 published: 2023-05-26
 url: /2023/05/perspectives/
-category: Throughts
+category: Thoughts
 draft: false
 
 ---

@@ -4,7 +4,7 @@ description: So I am sorry I haven’t been good lately, I am not ok and I know 
 tags: [Personal, Mental Health]
 published: 2022-02-02
 url: /2022/02/struggling-with-anxiety/
-category: Archive
+category: Life
 draft: false
 
 ---

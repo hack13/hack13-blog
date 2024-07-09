@@ -4,7 +4,7 @@ description: So I am so upset lately that people are considering things that hav
 tags: [Crypto]
 published: 2023-09-16
 url: /2023/09/perspectives/
-category: Thoughts
+category: Crypto
 draft: false
 
 ---
