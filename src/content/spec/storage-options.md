@@ -1,0 +1,74 @@
+# Storage Options
+
+This page is extra content for [Own Your Content](/posts/2024-08-own-your-content/) article.
+
+**Storage For Nerds (Object Storage):**
+- Amazon S3
+	- Very big name
+	- Can be expensive
+	- Flexible storage tiers
+- Backblaze B2
+	- Very affordable
+	- No egress fees (restrictions apply)
+	- Long standing company
+	- Not many locations (EU and US)
+- Cloudflare R2
+	- 10 GB of Free Storage
+	- Free Egress
+	- Cloudflare's built in CDN
+- Storj
+	- Built in CDN
+	- Built in encryption
+	- Crypto Currency Tie-in (non-enterprise storage nodes operators paid via STORJ coin)
+	- S3 Compatible and Fast
+- iDrive e2
+	- Most affordable
+	- No operations fees
+	- Reliability from personal experience hasn't been great
+	- Their support can take days to respond
+	- Tons of locations
+- DigitalOcean Spaces
+	- Free CDN
+	- Flat Rate Pricing
+	- 1 TB Bandwidth Included
+- Akamai(formerly Linode)
+	- Enterprise name/Long standing Pro-Linux company
+	- 1 TB Bandwidth Included
+	- Flat Rate Pricing
+
+**Storage for Normal Fuzzies (Classic Cloud Storage):**
+- Dropbox
+	- Very old name in the business
+	- 2 GB Free storage
+	- 2 TB at 119.88/year
+- sync.com
+	- Built in encryption
+	- 5 GB Free Storage
+	- 2 TB at 96/year
+- pCloud
+	- Seemed sketch... but they have been around a long time
+	- Several reviews show they have been reliable
+	- End 2 End Encryption is an additional charge
+	- 10 GB Free Storage
+	- Lifetime Plans (Fine Print reads 99 years)
+		- 500 GB - 199 USD
+		- 2 TB - 399 USD
+		- 10 TB - 1190 USD
+	- Annual Plans
+		- 500 GB - 49.99 USD
+		- 2 TB - 99.99 USD
+- Microsoft OneDrive
+	- Is bundled with Microsoft Office
+	- 1 TB Storage + MS Office Personal (69.99/year)
+- Mega
+	- Has a rocky past, but recent years reputation and new owners cleaned up house
+	- 20 GB Free Storage
+	- Limited Storage Transfer each month
+	- 2 TB Storage at 109.21/year
+- Google Drive
+	- Well my big con on this one is I don't like Google that much
+	- They have been known to delete users files if they contain content they don't like
+	- 15 GB Free Storage
+	- 100 GB at 23.88/year
+	- 200 GB at 35.88/year
+	- 2 TB at 119.88/year 
